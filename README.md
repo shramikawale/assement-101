@@ -14,3 +14,7 @@ Steps are as follows:
 6. Config cache for cache clearance: "docker-compose exec app php artisan config:cache"
 
 7. Finally, Working URL: http://13.232.178.10 .
+
+#some of the results and output are attached with this repository.
+
+Thank you. Peace !!!
