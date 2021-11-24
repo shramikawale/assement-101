@@ -15,6 +15,6 @@ Steps are as follows:
 
 7. Finally, Working URL: http://13.232.178.10 .
 
-#some of the results and output are attached with this repository.
+Note: some of the results and output are attached with this repository.
 
 Thank you. Peace !!!
